@@ -17,6 +17,8 @@ use common\models\AccessHelpers;
 
 /**
  * Site controller
+ * Author Rodrigo Bustamante G.
+ * Date 23-06-2015
  */
 class SiteController extends Controller
 {
